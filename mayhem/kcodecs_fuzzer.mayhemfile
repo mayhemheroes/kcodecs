@@ -1,0 +1,4 @@
+project: PROJECT
+target: kcodecs_fuzzer
+cmds:
+- cmd: /out/kcodecs_fuzzer
